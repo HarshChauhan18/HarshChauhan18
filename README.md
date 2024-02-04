@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <hr>
-🔭 I’m currently working on <a href="https://github.com/HarshChauhan18/RentalManagement">Rental Management System</a><br>🌱 I’m currently learning Django<br>🤝 I’m looking for help with Ruby on Rail <br>💬 Ask me about React, PHP and CSS<br>📫 How to reach me harshchauhan3974@gmail.com
+🔭 I’m currently working on <a href="https://github.com/HarshChauhan18/RentalManagement">Task Management System</a><br>🌱 I’m currently learning ASP.NET<br>🤝 I’m looking for help with Ruby on Rail <br>💬 Ask me about React, PHP and .NET<br>📫 How to reach me harshchauhan3974@gmail.com
 
 
 ---
